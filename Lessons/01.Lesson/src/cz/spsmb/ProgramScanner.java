@@ -32,7 +32,7 @@ public class ProgramScanner {
        public void createSingletonInstances() throws NoSuchMethodException {
            Constructor constructor = Singleton.class.getDeclaredConstructor(null);
            constructor.setAccessible(true);
-            /*
+
            for(int i = 0; i < 10; i++) {
                try {
                    Singleton singleton = (Singleton) constructor.newInstance();
@@ -40,7 +40,6 @@ public class ProgramScanner {
                    e.printStackTrace();
                }
            }
-           */
 
            Singleton singleton = Singleton.getSingleton();
            Singleton singleton2 = Singleton.getSingleton();
