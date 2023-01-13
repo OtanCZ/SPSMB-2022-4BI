@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2f2d18-6c75-4ba2-86a1-8f4fca87670b" name="Changes" comment="2. Lesson done and dusted? idk jestli jsem to dodělal">
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Matrix/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Matrix/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Semaphore/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Semaphore/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Semaphore/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Threads/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/03.Lesson/src/cz/spsmb/Threads/Npc.java" afterDir="false" />
+    <list default="true" id="2d2f2d18-6c75-4ba2-86a1-8f4fca87670b" name="Changes" comment="idk komit">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/05.Lesson/src/cz/spsmb/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/05.Lesson/src/cz/spsmb/app/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/otancz/Documents/skola/PRO/bomberman",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/otancz/Documents/skola/PRO/bomberman&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.cz.spsmb.Semaphore.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cz.spsmb.Application" />
-      <module name="01.Lesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cz.spsmb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.cz.spsmb.app.Application (1)">
     <configuration name="Threads.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Threads.Application" />
       <module name="SPSMB-2022-4BI" />
@@ -104,12 +94,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cz.spsmb.app.Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.spsmb.app.Application" />
+      <module name="05.Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.spsmb.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cz.spsmb.app.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.spsmb.app.Application" />
+      <module name="05.Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.spsmb.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cz.spsmb.app.Application (1)" />
+        <item itemvalue="Application.cz.spsmb.app.Application" />
         <item itemvalue="Application.cz.spsmb.Semaphore.Application" />
         <item itemvalue="Application.cz.spsmb.Threads.Application" />
         <item itemvalue="Application.Threads.Application" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +148,11 @@
       <workItem from="1669369573353" duration="415000" />
       <workItem from="1669969956396" duration="61000" />
       <workItem from="1669970053395" duration="32000" />
+      <workItem from="1672995361540" duration="1738000" />
+      <workItem from="1672997460873" duration="510000" />
+      <workItem from="1672997982364" duration="194000" />
+      <workItem from="1672998196113" duration="8000" />
+      <workItem from="1672999287002" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="1. Lesson done and dusted">
       <created>1667561724745</created>
@@ -146,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669359787739</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="idk komit">
+      <created>1672995428193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672995428193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="idk komit">
+      <created>1672995562327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672995562327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1. Lesson done and dusted" />
     <MESSAGE value="2. Lesson done and dusted? idk jestli jsem to dodělal" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. Lesson done and dusted? idk jestli jsem to dodělal" />
+    <MESSAGE value="idk komit" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk komit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
